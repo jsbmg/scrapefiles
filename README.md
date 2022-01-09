@@ -6,7 +6,7 @@ dependencies required other than Python3.6+.
 
 ### Usage 
 ```
-$ scrapefiles [URL] --match [REGEX]
+$ scrapefiles.py [URL] --match [REGEX]
 ```
 Additional options:
 ```
