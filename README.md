@@ -6,7 +6,7 @@ dependencies required other than Python3.6+.
 
 ### Usage 
 ```
-$ scrapefiles <url> --match <regex>
+$ scrapefiles [URL] --match [REGEX]
 ```
 Additional options:
 ```
@@ -16,8 +16,3 @@ Additional options:
 -y
     Assume "yes" to prompts and run non-interactively.
 ```
-
-### Installation
-
-Add the script to your $PATH and ensure it's executable.
-
